@@ -5,3 +5,7 @@ edition = "2024"
 
 [dependencies]
 log = "0.4.27"
+
+[[bin]]
+name = "bamboo_os"
+test = false
